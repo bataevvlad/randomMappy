@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e4c4b4ca-0996-4175-8fa1-87b48ed2b301" name="Default Changelist" comment="git init">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Company.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CustomMap.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/User.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/randomMappy.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/randomMappy.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="TypeScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1kKThEVXcp4ScoSmrxNnrETPoM0" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e4c4b4ca-0996-4175-8fa1-87b48ed2b301" name="Default Changelist" comment="" />
+      <created>1605448401086</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605448401086</updated>
+      <workItem from="1605448402167" duration="10975000" />
+    </task>
+    <task id="LOCAL-00001" summary="git init">
+      <created>1605448529286</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1605448529286</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="git init" />
+    <option name="LAST_COMMIT_MESSAGE" value="git init" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1901" y="-637" key="Github.ShareDialog" timestamp="1605448567673">
+      <screen x="1077" y="-1080" width="1920" height="1080" />
+    </state>
+    <state x="1901" y="-637" key="Github.ShareDialog/1077.-1080.1920.1080/0.0.1792.1120@1077.-1080.1920.1080" timestamp="1605448567673" />
+    <state x="1636" y="-816" key="Vcs.Push.Dialog.v2" timestamp="1605448540224">
+      <screen x="1077" y="-1080" width="1920" height="1080" />
+    </state>
+    <state x="1636" y="-816" key="Vcs.Push.Dialog.v2/1077.-1080.1920.1080/0.0.1792.1120@1077.-1080.1920.1080" timestamp="1605448540224" />
+  </component>
+</project>

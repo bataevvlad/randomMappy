@@ -1,16 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e4c4b4ca-0996-4175-8fa1-87b48ed2b301" name="Default Changelist" comment="git init">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Company.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CustomMap.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/User.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/index.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/randomMappy.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/randomMappy.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+    <list default="true" id="e4c4b4ca-0996-4175-8fa1-87b48ed2b301" name="Default Changelist" comment="completed project.">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CustomMap.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/CustomMap.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,7 +45,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1605448401086</updated>
-      <workItem from="1605448402167" duration="10975000" />
+      <workItem from="1605448402167" duration="12333000" />
     </task>
     <task id="LOCAL-00001" summary="git init">
       <created>1605448529286</created>
@@ -61,7 +54,14 @@
       <option name="project" value="LOCAL" />
       <updated>1605448529286</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="completed project.">
+      <created>1605468724281</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1605468724281</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -69,16 +69,17 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="git init" />
-    <option name="LAST_COMMIT_MESSAGE" value="git init" />
+    <MESSAGE value="completed project." />
+    <option name="LAST_COMMIT_MESSAGE" value="completed project." />
   </component>
   <component name="WindowStateProjectService">
     <state x="1901" y="-637" key="Github.ShareDialog" timestamp="1605448567673">
       <screen x="1077" y="-1080" width="1920" height="1080" />
     </state>
     <state x="1901" y="-637" key="Github.ShareDialog/1077.-1080.1920.1080/0.0.1792.1120@1077.-1080.1920.1080" timestamp="1605448567673" />
-    <state x="1636" y="-816" key="Vcs.Push.Dialog.v2" timestamp="1605448540224">
+    <state x="1636" y="-816" key="Vcs.Push.Dialog.v2" timestamp="1605468726041">
       <screen x="1077" y="-1080" width="1920" height="1080" />
     </state>
-    <state x="1636" y="-816" key="Vcs.Push.Dialog.v2/1077.-1080.1920.1080/0.0.1792.1120@1077.-1080.1920.1080" timestamp="1605448540224" />
+    <state x="1636" y="-816" key="Vcs.Push.Dialog.v2/1077.-1080.1920.1080/0.0.1792.1120@1077.-1080.1920.1080" timestamp="1605468726041" />
   </component>
 </project>

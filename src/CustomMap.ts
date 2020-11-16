@@ -41,12 +41,9 @@ export class CustomMap {
         })
     }
 
-    createPath(user, company): void {
-        const coordsArray = [];
-        coordsArray.push(user.location, company.location);
-
+    createPath(user, company: Mappable): void {
         const pathMap = new google.maps.Polyline({
-            path: coordsArray,
+            path: [user.location, company.location],
             geodesic: true,
             strokeColor: "#0066ff",
             strokeOpacity: 1.0,
